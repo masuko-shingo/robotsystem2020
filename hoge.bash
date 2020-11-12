@@ -1,5 +1,6 @@
 #!/bin/bash
-#written by masumasu
+#written by masuko
+
 echo hoge
 echo hoge
 echo hoge
